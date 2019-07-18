@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.error {
+	color: red;
+	font-size: 20px;
+}
+
+.etiqueta {
+	color: blue;
+	font-size: 15px;
+}
